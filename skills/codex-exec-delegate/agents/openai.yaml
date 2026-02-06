@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Exec Delegate"
+  short_description: "Delegate tasks via nested codex exec"
+  default_prompt: "Use $codex-exec-delegate to delegate a coding task to a nested `codex exec --yolo` worker."
