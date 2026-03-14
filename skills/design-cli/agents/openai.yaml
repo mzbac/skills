@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design CLI"
+  short_description: "Design agent-friendly CLIs for LLM workflows"
+  default_prompt: "Use $design-cli to design or refine an agent-friendly CLI for this workflow."
